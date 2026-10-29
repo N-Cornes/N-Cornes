@@ -1,108 +1,80 @@
-# Hi, I'm Nicholas Cornes 👋
+# Nicholas Cornes
 
-## Software Engineer
+## Software Engineer | Full-Stack • Backend • AI/LLM
 
-Software Engineer with experience in full-stack development, backend development, AI/LLM engineering workflows, application security, mobile development, databases, testing, and cloud deployment.
+Software Engineer with professional experience in AI/LLM engineering workflows, full-stack development, backend systems, application security, mobile development, databases, automated testing, and cloud deployment.
 
-I earned my **B.S. in Software Engineering from Western Governors University in 2026** and enjoy building practical applications from requirements through deployment.
+I build practical software from requirements through implementation, testing, and deployment, with a strong focus on **Java/Spring Boot, Python, REST APIs, relational databases, secure coding, and maintainable architecture**.
 
-### 🛠 Technical Skills
+Currently working as a **Software Engineer with Alignerr**, creating and evaluating software-engineering tasks across unfamiliar codebases, including feature work, refactoring, debugging, and automated testing.
+
+## 🛠 Technical Stack
 
 **Languages**  
 Java • Python • JavaScript • TypeScript • SQL • HTML • CSS
 
-**Frameworks & Technologies**  
-Spring Boot • Spring Security • Spring Data JPA • Hibernate • Flask • React • Angular • Android • Room
+**Backend**  
+Spring Boot • Spring MVC • Spring Security • Spring Data JPA • Hibernate • Flask • Django • REST APIs
 
-**Databases**  
-PostgreSQL • MySQL • SQLite • H2
+**Frontend & Mobile**  
+Angular • React • Thymeleaf • Android SDK • Room
 
-**Development & DevOps**  
-Git • GitHub • GitLab • Docker • Maven • Render • PowerShell • CI/CD
+**Data**  
+PostgreSQL • MySQL • SQLite • H2 • Relational Database Design
 
-**Testing & Security**  
-JUnit • pytest • Bandit • Flake8 • REST APIs • RBAC • Authentication • Authorization • Secure Coding
+**DevOps & Testing**  
+Docker • Git • GitHub • GitLab • CI/CD • Maven • Render • PowerShell • JUnit • pytest • Selenium • Bandit • Flake8
 
----
+## 🚀 Featured Engineering Work
 
-## 🚀 Featured Projects
+### [Bayou Tattoo Studio Management](https://github.com/N-Cornes/bayou-tattoo-studio)
+**Java • Spring Boot • Spring Security • PostgreSQL • Docker • Render**
 
-### 🎨 Bayou Tattoo Studio Management
-Full-stack tattoo studio management application built with **Java, Spring Boot, Spring Security, PostgreSQL, Docker, and Thymeleaf**.
+Full-stack business management platform covering clients, artists, services, appointments, inventory, search, reporting, authentication, authorization, relational persistence, and cloud deployment.
 
-Features include:
-- Client and artist management
-- Appointment scheduling
-- Tattoo service management
-- Inventory and reorder tracking
-- Search and reporting
-- Authentication and authorization
-- Docker containerization
-- PostgreSQL cloud database
-- Render deployment
+**Live application:** https://bayou-tattoo-studio.onrender.com/
 
----
+### [Secure Equipment Rental API](https://github.com/N-Cornes/secure-equipment-rental-api)
+**Python • Flask • pytest • Bandit • Flake8**
 
-### 📱 Android Vacation Scheduler
-Database-backed Android application built with **Java, Room, and SQLite**.
+Security-focused application demonstrating password hashing, environment-based secrets, authentication, RBAC, input validation, structured logging, exception handling, and automated security testing.
 
-Features include:
-- Vacation and excursion CRUD
-- Vacation/excursion relationships
-- Date validation
-- Start and end date alerts
-- Excursion alerts
-- Sharing functionality
-- Persistent local storage
+### [Vacation Booking API](https://github.com/N-Cornes/vacation-booking-api)
+**Java • Spring Boot • Spring Data JPA • MySQL • REST**
 
----
+Backend booking system for customers, vacation packages, excursions, carts, checkout processing, tracking-number generation, and relational persistence.
 
-### 🔐 Secure Equipment Rental API
-Security-focused Flask application built with **Python, Flask, and pytest**.
+### [Android Vacation Scheduler](https://github.com/N-Cornes/android-vacation-scheduler)
+**Java • Android • Room • SQLite**
 
-Security work includes:
-- Password hashing
-- Environment-based secrets
-- API authentication
-- Role-based access control
-- Input validation
-- Secure exception handling
-- Application logging
-- Automated security testing
+Multi-screen mobile application with vacation/excursion CRUD, relational constraints, strict date validation, alerts, sharing, and persistent local storage.
 
----
+### [SoapBox CI/CD](https://github.com/N-Cornes/soapbox-cicd)
+**Python • Django • GitLab CI/CD • Selenium**
 
-### ⚙️ SoapBox CI/CD
-Python/Django application configured with an automated CI/CD testing pipeline.
+Software quality and deployment project featuring automated Django tests, CI pipeline execution, authentication workflow validation, and browser-based functional testing.
 
-- Django
-- Python
-- Automated unit testing
-- GitLab CI/CD
-- Seven application tests covering authentication and account functionality
+### [Landon Hotel Platform](https://github.com/N-Cornes/landon-hotel-platform)
+**Java • Spring Boot • Angular • TypeScript • Docker**
 
----
+Full-stack hotel platform demonstrating REST integration, localization, currency and time-zone handling, concurrent processing, and containerized deployment.
 
-### 🌎 Interactive World Map
-Interactive web application built with **Angular and TypeScript** using an SVG world map and external API data.
+## 🔧 Additional Projects
 
----
+- [Spring Inventory Management](https://github.com/N-Cornes/spring-inventory-management) — Java, Spring Boot, Spring Data JPA, Thymeleaf, H2
+- [Interactive World Map](https://github.com/N-Cornes/interactive-world-map) — Angular, TypeScript, SVG, World Bank API
+- [Software Architecture & Design](https://github.com/N-Cornes/software-architecture-design) — Microservices, distributed systems, event-driven and client-server architecture
+- [PostgreSQL Rental Reporting](https://github.com/N-Cornes/postgresql-rental-reporting) — SQL, PL/pgSQL, functions, procedures, triggers, reporting automation
+- [Front-End Web Development](https://github.com/N-Cornes/frontend-web-development) — HTML, CSS, JavaScript, responsive and accessible UI
+- [Taniti Tourism UX Design](https://github.com/N-Cornes/taniti-tourism-ux-design) — Figma, personas, wireframing, usability testing, iterative UX design
 
-### 🗄 PostgreSQL Rental Reporting
-Database reporting project using **PostgreSQL functions, triggers, detailed tables, summary tables, and automated report refresh logic**.
+## 🎓 Education & Certifications
 
----
+**B.S. Software Engineering** — Western Governors University, 2026
 
-## 🎓 Education
-
-**Bachelor of Science in Software Engineering**  
-Western Governors University — 2026
-
-## 📜 Certifications
-
-- CompTIA Project+
-- ITIL® 4 Foundation — PeopleCert
 - Back-End Web Development — Western Governors University
+- ITIL® 4 Foundation — PeopleCert
+- CompTIA Project+
 
 ## 📫 Contact
 
