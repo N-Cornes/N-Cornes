@@ -28,9 +28,11 @@ Docker • Git • GitHub • GitLab • GitHub Actions • CI/CD • Maven • 
 ## 🚀 Featured Engineering Work
 
 ### [Developer Job Tracker](https://github.com/N-Cornes/developer-job-tracker)
-**Java • Spring Boot • React • TypeScript • PostgreSQL • Docker • GitHub Actions**
+**Java • Spring Boot • React • TypeScript • PostgreSQL • Docker • GitHub Actions • Render**
 
-Original full-stack job application tracking platform with JWT authentication, per-user data isolation, Kanban workflow management, follow-up reminders, Flyway database migrations, PostgreSQL Testcontainers integration testing, OpenAPI documentation, Dockerized services, and an automated CI pipeline.
+Original full-stack job application tracking platform with JWT authentication, per-user data isolation, Kanban workflow management, follow-up reminders, Flyway database migrations, PostgreSQL Testcontainers integration testing, OpenAPI documentation, Dockerized services, automated CI, and managed cloud deployment.
+
+**Live application:** https://nicholas-cornes-job-tracker.onrender.com/
 
 ### [Bayou Tattoo Studio Management](https://github.com/N-Cornes/bayou-tattoo-studio)
 **Java • Spring Boot • Spring Security • PostgreSQL • Docker • Render**
